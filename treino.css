@@ -1,0 +1,17 @@
+body{ 
+    font-size: 22px;
+}
+figure{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    margin-left: 180px;
+}
+p{
+    text-align:justify;
+    margin-left:180px ;
+    margin-right: 180px;
+}
